@@ -1,2 +1,3 @@
 # 1013-Discord-Bot
-A bot for the 1013 Discord
+
+Do not copy this code in any way!
